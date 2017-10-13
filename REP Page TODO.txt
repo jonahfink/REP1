@@ -1,0 +1,5 @@
+﻿TODO: Add code for user widget
+TODO: Add code to make table load
+TODO: Make sure steam profile button works
+TODO: Make sure staff names come out colored
+TODO: Make sure favicon works on live server
