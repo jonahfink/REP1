@@ -333,6 +333,7 @@ $(function() {
 <a href="https://ucp.limelightgaming.net/"><li>User Control Panel</li></a>
 <a href="https://limelightgaming.net/services/inventory/"><li>Inventory Manager</li></a>
 <a href="https://ucp.limelightgaming.net/stats"><li>Statistics</li></a>
+<a href="https://limelightgaming.net/services/rep/index.php"> <li> Roleplay Experience Points </li> </a>
 </ul>
 </li>
 
