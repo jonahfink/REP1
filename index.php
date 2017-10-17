@@ -595,7 +595,7 @@ ga('send', 'pageview');
 				<td class="tcat" align="center"><span class="smalltext catlist"></span></td>
 				<td class="tcat" align="left" width="50%"><span class="smalltext catlist"><strong>Reason</strong></span></td>
 				<td class="tcat" align="left" width="15%"><span class="smalltext catlist"><strong>Given on</strong></span></td>
-				<td class="tcat" align="left" width="25%"><span class="smalltext catlist"><strong>Issued by</strong></span></td>
+				<td class="tcat" align="left" width="25%"><span class="smalltext catlist"><strong>Awarded by</strong></span></td>
 							</tr>`;
 			
 			blacklistsbottom = `
